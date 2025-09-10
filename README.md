@@ -1,7 +1,9 @@
 - 👋 Hi, I’m AkhilaDhaniya
-- 👀 I’m interested in Machine learning and AI.
-- 🌱 I’m currently pursuing BSc in Computer Applications with triple Major in Computer Applications, Mathematics and statistics.
-- 💻 I'm currently working on a Sign language prediction System.
+- 🎯Strong foundation in Core Java, OOP, and DSA
+- 🔧 Building projects with JDBC, Spring Boot, REST APIs
+- 🛠️ Familiar with Hibernate, SQL, and Web Technologies
+- 🤝 Open to entry-level opportunities in Java Development & Backend Engineering
+- 🌱 Currently learning and exploring Spring framework to strengthen backend skills
 
 <!---
 AkhilaDhaniya/AkhilaDhaniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
